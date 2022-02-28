@@ -45,5 +45,3 @@ networking:
 platform:
   aws:
     region: us-east-1
-sshKey: |-
-    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOEcqmhJj5sBGHZgDpgzWkog3O0KDFLr34MeISmoIN40ugPNFqlT9dwtWI7bhKA502erCLXKQBpAw5Levtq6QW25alHTVAzq4O9O2TlfwcuN7aSjrZlezBoGtcDEu+gL2aNmRqV8b3Ujm5Jo6hkIijo4y+fA9vwoo5owTH+ms5y29J1OM8voLTiY9evYR/OinuMdK1UcpNHDru4YR+EzxQk3Mlf8HCvwNOhv0NHoNPoQfzDsGQitdNkcJq+E4WkpPInnvrsavhb8bNsD9vN8o/bWAZb03gpIWyxUdwrBLmnl+lZuukUyTG0VlL4xl3+yYKC42pJL7nXbk2rEsLbIbz cmarango@cmarango-mac
